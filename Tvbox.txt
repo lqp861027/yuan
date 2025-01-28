@@ -1,8 +1,4 @@
-解锁,#genre#
-解锁更多,https://yyrj.fun/gzh.mp4
-关注公众号,https://yyrj.fun/gzh.mp4
-玉玉软件库,https://yyrj.fun/gzh.mp4
-回复密码,http://150.158.112.123/jar/gzh.mp4
+#genre#
 北京文艺,https://fmbox.cc/公众号玉玉软件库/tv/beijing.php?id=bjwy
 北京影视,https://fmbox.cc/公众号玉玉软件库/tv/beijing.php?id=bjys
 北京财经,https://fmbox.cc/公众号玉玉软件库/tv/beijing.php?id=bjcj
