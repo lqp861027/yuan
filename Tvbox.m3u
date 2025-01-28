@@ -1,12 +1,4 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="解锁更多" tvg-logo="" group-title="解锁",解锁更多
-https://yyrj.fun/gzh.mp4
-#EXTINF:-1 tvg-id="" tvg-name="关注公众号" tvg-logo="" group-title="解锁",关注公众号
-https://yyrj.fun/gzh.mp4
-#EXTINF:-1 tvg-id="" tvg-name="玉玉软件库" tvg-logo="" group-title="解锁",玉玉软件库
-https://yyrj.fun/gzh.mp4
-#EXTINF:-1 tvg-id="" tvg-name="回复密码" tvg-logo="" group-title="解锁",回复密码
-http://150.158.112.123/jar/gzh.mp4
 #EXTINF:-1 tvg-id="" tvg-name="北京文艺" tvg-logo="" group-title="解锁",北京文艺
 https://fmbox.cc/公众号玉玉软件库/tv/beijing.php?id=bjwy
 #EXTINF:-1 tvg-id="" tvg-name="北京影视" tvg-logo="" group-title="解锁",北京影视
